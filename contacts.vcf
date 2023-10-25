@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:test test
+N:test;test;;;
+item1.EMAIL;TYPE=INTERNET:email@email.com
+item1.X-ABLabel:
+item2.TEL:012-3456 7890
+item2.X-ABLabel:
+item3.ORG:test sdn bhd
+item3.X-ABLabel:
+item4.TITLE:test
+item4.X-ABLabel:
+CATEGORIES:myContacts
+END:VCARD
